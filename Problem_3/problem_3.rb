@@ -1,5 +1,4 @@
 
-# Found online after trying to code for far to long
 
 require "prime"
 
